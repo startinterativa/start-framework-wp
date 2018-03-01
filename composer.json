@@ -1,0 +1,12 @@
+{
+    "name": "startinterativa/start-framework-wp",
+    "description": "Wordpress development framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vitor Marcelino",
+            "email": "vitormarcelino93@gmail.com"
+        }
+    ],
+    "require": {}
+}
