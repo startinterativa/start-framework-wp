@@ -10,5 +10,10 @@
     ],
     "require": {
         "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-paths": {
+            "wp-content/plugin/{$name}": ["startinterativa/start-framework-wp"]
+        }
     }
 }
