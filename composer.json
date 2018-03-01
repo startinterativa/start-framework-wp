@@ -8,5 +8,7 @@
             "email": "vitormarcelino93@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
