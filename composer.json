@@ -1,7 +1,7 @@
 {
     "name": "startinterativa/start-framework-wp",
     "description": "Wordpress development framework",
-    "type": "wpackagist-plugin",
+    "type": "wordpress-plugin",
     "authors": [
         {
             "name": "Vitor Marcelino",
